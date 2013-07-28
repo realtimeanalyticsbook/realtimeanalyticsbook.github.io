@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[Approaches to Real-Time Analytics]]></title>
   <link href="http://realtimeanalyticsbook.github.io/atom.xml" rel="self"/>
   <link href="http://realtimeanalyticsbook.github.io/"/>
-  <updated>2013-07-28T18:32:06-04:00</updated>
+  <updated>2013-07-28T18:43:25-04:00</updated>
   <id>http://realtimeanalyticsbook.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Constantine Aaron Cois and Eric Blaine Werner]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
